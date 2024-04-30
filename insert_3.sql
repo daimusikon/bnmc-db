@@ -1,1 +1,1 @@
-INSERT INTO dbo.[user] (nama, zodiak) VALUES ('fikih', 'leo');
+INSERT INTO dbo.[user] (nama, zodiak) VALUES ('jamal', 'aquarius');
